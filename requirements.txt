@@ -1,0 +1,7 @@
+streamlit
+langchain~=0.3.0
+langchain-community
+langchain_experimental
+lanchain-core
+numexpr
+mysql-connecter-python
